@@ -37,7 +37,9 @@ to the camera frame.
 
 ![Figure 1: A sample final output with the lane lines drawn in red](examples/laneLines_thirdPass.jpg)
 
-
+```
+Figure 1: A sample final output with the lane lines drawn in red
+```
 
 ## 2.2 Shortcomings with current pipeline
 
